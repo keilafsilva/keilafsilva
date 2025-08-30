@@ -1,8 +1,8 @@
 # About Me
 
 - My name is `Keila`
-- `Computer Engineering` student at `Unisinos`
-- Currently specializing in `Fullstack Development`
+- Computer Engineering student at `Unisinos`
+- Currently specializing in `Fullstack Development` and `Cloud Computing`
 
 
 
@@ -22,6 +22,6 @@
 <div>
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keilafsilva/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keilafsilva96@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:keilafsilva9@gmail.com)
 
 </div>
